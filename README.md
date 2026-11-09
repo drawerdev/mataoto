@@ -22,10 +22,10 @@
 </p>
 
 <p align="center">
-  <img src="images/01-start-en.jpg" width="24%" alt="start page">
-  <img src="images/03-albums-en.jpg" width="24%" alt="albums">
-  <img src="images/04-artists-en.jpg" width="24%" alt="artists">
-  <img src="images/05-player-en.jpg" width="24%" alt="now playing">
+  <img src="images/01-start-en.jpg" width="23%" alt="start page">
+  <img src="images/03-albums-en.jpg" width="23%" alt="albums">
+  <img src="images/04-artists-en.jpg" width="23%" alt="artists">
+  <img src="images/05-player-en.jpg" width="23%" alt="now playing">
 </p>
 
 <p align="center">
